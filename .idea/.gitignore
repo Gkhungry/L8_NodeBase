@@ -10,7 +10,7 @@
 /httpRequests/
 node_modules/
 .env
-.env.local
-.env.*.local
-.DS_Store
+.env.development
+.env.production
+.env.domain
 npm-debug.log*
