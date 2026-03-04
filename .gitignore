@@ -3,4 +3,6 @@ node_modules/
 .env.development
 .env.production
 .env.domain
+*.env
+.idea/
 npm-debug.log*
